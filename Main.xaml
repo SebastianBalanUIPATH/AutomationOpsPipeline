@@ -103,7 +103,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Assign DisplayName="inint dest path" sap:VirtualizedContainerService.HintSize="423.2,60" sap2010:WorkflowViewState.IdRef="Assign_1">
+    <Assign DisplayName="Init folder  destination" sap:VirtualizedContainerService.HintSize="423.2,60" sap2010:WorkflowViewState.IdRef="Assign_1">
       <Assign.To>
         <OutArgument x:TypeArguments="x:String">[DestinationPath]</OutArgument>
       </Assign.To>
